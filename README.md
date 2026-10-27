@@ -47,7 +47,7 @@ Contributed to the code development as part of a collaborative university projec
 - **Project Report:** Documentation of the project.
 - **Presentation:** Overview of the concept, features, and implementation.
 - **Project Poster:** Visual summary of the project.
-- **Demo Video:** Screen recording demonstrating the application in use.
+- **Demo Video:** Screen recording demonstrating the application in use: (https://drive.google.com/file/d/1V1H3Qjqv9KwbCmpQFGy4lioQTzuXqyzV/view?usp=drive_link)
 
 ## Academic Context
 
