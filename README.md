@@ -39,7 +39,7 @@ The application includes four main interface panels:
 
 ## My Contribution
 
-Contributed to the code development as part of a collaborative university project, working with teammates to implement and integrate the application's functionality.
+Contributed to the code development as part of a collaborative university project, working with my teammate (Dina Babačić) to implement and integrate the application's functionality.
 
 ## Project Documentation and Demo
 
